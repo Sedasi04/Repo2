@@ -1,1 +1,6 @@
-{\rtf1}
+class Dog{
+}
+
+
+class Cat{
+}
