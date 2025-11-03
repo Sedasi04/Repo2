@@ -15,3 +15,8 @@ class Dog{
 
    }
 }
+
+class Rabbit extends class Dog{
+   void run(){
+   }
+}
